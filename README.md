@@ -1,6 +1,6 @@
 # book_blog
 
-A new Flutter project.
+Flutter practice project for BSUIR.
 
 ## Getting Started
 
