@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598680019792",
+    "project_id": "bookblog-585b9",
+    "storage_bucket": "bookblog-585b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598680019792:android:0765fdd3c0a5d094644255",
+        "android_client_info": {
+          "package_name": "com.example.book_blog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc0HP4PgtzHFTS5udH7WFDce_p1ZrBvXs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
